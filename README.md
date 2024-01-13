@@ -32,7 +32,8 @@ Red for mistaken areas, Green for missed areas.
 
 
 ## 3. Experimental data and download address
-*  EVLab-BGZ dataset: [EVLab-BGZ](https://pan.baidu.com/s/1UaqAjwr1-suXNk4J7wNdZg )(Extraction code:EVLa)
+*  EVLab-BGZ dataset: [EVLab-BGZ](https://pan.baidu.com/s/1UaqAjwr1-suXNk4J7wNdZg )
+*  (Extraction code:EVLa)
 
 This dataset comprises 2,825 aerial images and 1,006 satellite images, each with a resolution of 512×512 pixels. 
 It encompasses a total of 39,198 instances of buildings. Each building is individually annotated, with rare instances 
@@ -41,6 +42,13 @@ ranging from a single building to as many as 51 buildings per image, with each b
 The dataset is divided into two subsets: 3,000 images for training and 831 images for testing.
 
 ## 4. Integrated Interactive segmentation software and demo effect
+
+<div align="center">
+    <video width="720" height="480" autoplay>
+        <source src="figures/demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 The demo video demonstrates the following steps:
 
@@ -57,9 +65,3 @@ The demo video demonstrates the following steps:
 4. **Manual Interaction to Modify Certain Results:** 
     The user manually adjusts or corrects the segmentation results where necessary.
 
-<div align="center">
-    <video width="720" height="480" autoplay>
-        <source src="figures/demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
