@@ -49,7 +49,9 @@ The dataset is divided into two subsets: 3,000 images for training and 831 image
     </video>
 </div>
 
-The demo video demonstrates the following steps:
+There's still a bit of a problem with the display here, it can be downloaded and viewed, see folder: images/demo.mp4
+
+The video demonstrates the following steps:
 
 1. **Interactive Segmentation of a Building Target:** 
     A process where the user directly interacts with the software to segment a building.
