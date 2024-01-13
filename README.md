@@ -49,7 +49,7 @@ The dataset is divided into two subsets: 3,000 images for training and 831 image
     </video>
 </div>
 
-There's still a bit of a problem with the display here, it can be downloaded and viewed, see folder: images/demo.mp4
+There's still a bit of a problem with the display here, it can be downloaded and viewed, see folder: figures/demo.mp4
 
 The video demonstrates the following steps:
 
