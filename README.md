@@ -1,4 +1,4 @@
-# The work of IBS-AQSNet 
+# IBS-AQSNet 
 
 ## Title of paper to be published
 
