@@ -32,8 +32,7 @@ Red for mistaken areas, Green for missed areas.
 
 
 ## 3. Experimental data and download address
-*  EVLab-BGZ dataset: [EVLab-BGZ](https://pan.baidu.com/s/1UaqAjwr1-suXNk4J7wNdZg )
-*  (Extraction code:EVLa)
+*  EVLab-BGZ dataset: [EVLab-BGZ](https://pan.baidu.com/s/1UaqAjwr1-suXNk4J7wNdZg ) (Extraction code:EVLa)
 
 This dataset comprises 2,825 aerial images and 1,006 satellite images, each with a resolution of 512×512 pixels. 
 It encompasses a total of 39,198 instances of buildings. Each building is individually annotated, with rare instances 
