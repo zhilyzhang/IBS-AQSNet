@@ -42,12 +42,7 @@ The dataset is divided into two subsets: 3,000 images for training and 831 image
 
 ## 4. Integrated Interactive segmentation software and demo effect
 
-<div align="center">
-    <video width="720" height="480" autoplay>
-        <source src="figures/demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/zhilyzhang/IBS-AQSNet/blob/4757b0d5a4e9d3f1cc8c4822be612bcc96aa3746/figures/demo.mp4 "Click to Watch!")
 
 There's still a bit of a problem with the display here, it can be downloaded and viewed, see folder: figures/demo.mp4
 
