@@ -57,7 +57,8 @@ b. **Heuristic Automatic Detection of Buildings:**
 c. **Automatic Quality Assessment of Interactive Building Segmentation:** 
     An automated process that evaluates the quality of the segmentation performed in step 1.  
     - Note: Each interactive building segmentation result is given 2 seconds for automatic quality assessment, 
-      to dynamically display the automatic quality control effect.
+      to dynamically display the automatic quality control effect.  
+      
 d. **Manual Interaction to Modify Certain Results:** 
     The user manually adjusts or corrects the segmentation results where necessary.
 
