@@ -2,7 +2,8 @@
 
 ## Title of paper to be published
 
-Enhanced Automated Quality Assessment Network for Interactive Building Segmentation in High-Resolution Remote Sensing Imagery
+Enhanced Automated Quality Assessment Network for Interactive Building Segmentation in High-Resolution Remote Sensing Imagery  
+[Paper Address](https://arxiv.org/abs/2401.09828)
 
 ## 1. Brief description of the proposed method
 This study introduces the IBS-AQSNet, a network designed for interactive building segmentation quality assessment (SQA)
